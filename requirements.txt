@@ -1,0 +1,5 @@
+scrapy
+selenium
+requests
+autopep8
+pandas
